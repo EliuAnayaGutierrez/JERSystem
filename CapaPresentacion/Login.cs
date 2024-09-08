@@ -24,8 +24,19 @@ namespace CapaPresentacion
 
         private void btnAcceder_Click(object sender, EventArgs e)
         {
+            // Crea una instancia del formulario Inicio
             Inicio form = new Inicio();
+            form.FormClosed += (s, args) =>
+            {
+                // Muestra nuevamente el formulario de Login cuando se cierra Inicio
+                this.Show();
+                // Limpia los TextBox
+                txtUser.Clear();
+                txtPassword.Clear();
+            };
+            // Muestra el formulario Inicio
             form.Show();
+            // Esconde el formulario Login
             this.Hide();
         }
     }
