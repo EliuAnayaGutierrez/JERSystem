@@ -1,0 +1,11 @@
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
