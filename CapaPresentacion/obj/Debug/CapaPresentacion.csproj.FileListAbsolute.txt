@@ -11,3 +11,4 @@ E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 E:\C#Proyectos\JER\JERSystem\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
 E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\C#Proyectos\JER\JERSystem\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources

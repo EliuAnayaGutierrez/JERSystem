@@ -21,5 +21,12 @@ namespace CapaPresentacion
         {
             this.Close();
         }
+
+        private void btnAcceder_Click(object sender, EventArgs e)
+        {
+            Inicio form = new Inicio();
+            form.Show();
+            this.Hide();
+        }
     }
 }
