@@ -24,6 +24,7 @@ namespace CapaPresentacion
 
         private void btnAcceder_Click(object sender, EventArgs e)
         {
+            
             // Crea una instancia del formulario Inicio
             Inicio form = new Inicio();
             form.FormClosed += (s, args) =>
@@ -39,5 +40,6 @@ namespace CapaPresentacion
             // Esconde el formulario Login
             this.Hide();
         }
+        
     }
 }

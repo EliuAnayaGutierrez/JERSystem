@@ -113,6 +113,7 @@
             // btnAcceder
             // 
             this.btnAcceder.BackColor = System.Drawing.Color.MediumSlateBlue;
+            this.btnAcceder.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAcceder.FlatAppearance.BorderSize = 0;
             this.btnAcceder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAcceder.ForeColor = System.Drawing.Color.White;
